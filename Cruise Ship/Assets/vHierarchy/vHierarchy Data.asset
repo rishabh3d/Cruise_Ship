@@ -48,12 +48,15 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-541868509-0
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-814179594-0
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-4050839-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-919132149155446097-1083181026
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-919132149155446097-839234588
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-919132149155446097-2133235314
         values:
         - colorIndex: 2
           iconNameOrGuid: Folder Icon
         - colorIndex: 7
           iconNameOrGuid: 
-        - colorIndex: 3
+        - colorIndex: 6
           iconNameOrGuid: 
         - colorIndex: 3
           iconNameOrGuid: Folder Icon
@@ -65,3 +68,9 @@ MonoBehaviour:
           iconNameOrGuid: Folder Icon
         - colorIndex: 0
           iconNameOrGuid: Camera Icon
+        - colorIndex: 6
+          iconNameOrGuid: 
+        - colorIndex: 6
+          iconNameOrGuid: 
+        - colorIndex: 6
+          iconNameOrGuid: 
