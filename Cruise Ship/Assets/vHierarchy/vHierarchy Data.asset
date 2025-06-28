@@ -56,6 +56,14 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1501455783787230167-433762822
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-642524574091238106-433762822
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1771970876-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1302191999-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1307889610-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-2108032952-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1393040919-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-791148040-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-2068216524-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1528885735-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-382143833-0
         values:
         - colorIndex: 2
           iconNameOrGuid: Folder Icon
@@ -89,3 +97,19 @@ MonoBehaviour:
           iconNameOrGuid: Light Icon
         - colorIndex: 0
           iconNameOrGuid: DirectionalLight Icon
+        - colorIndex: 4
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 0
+          iconNameOrGuid: LightProbes Icon
