@@ -70,6 +70,25 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-2031539824-0
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1317007678923047875-0
         - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-1709500621-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-233067832-0
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-177930578
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-102454180
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5649794285878659469-6023347519189778946
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-4235739860099278704
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-725775858
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-83353768
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-2008406433
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-382639681
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-1176972341
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5649794285878659469-1017309217
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-1032231472
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-1986253991
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-114284769
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5649794285878659469-1038371928
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-256188262
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-1690696112
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-1860304758
+        - globalObjectIdString: GlobalObjectId_V1-2-511b52bd55bdd4d42b568af736cb77ff-5565092436585715772-444451501
         values:
         - colorIndex: 2
           iconNameOrGuid: Folder Icon
@@ -83,7 +102,7 @@ MonoBehaviour:
           iconNameOrGuid: Folder Icon
         - colorIndex: 3
           iconNameOrGuid: Folder Icon
-        - colorIndex: 0
+        - colorIndex: 6
           iconNameOrGuid: Folder Icon
         - colorIndex: 0
           iconNameOrGuid: Camera Icon
@@ -131,3 +150,41 @@ MonoBehaviour:
           iconNameOrGuid: Folder Icon
         - colorIndex: 0
           iconNameOrGuid: ReflectionProbe Icon
+        - colorIndex: 9
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 0
+          iconNameOrGuid: AvatarMask On Icon
